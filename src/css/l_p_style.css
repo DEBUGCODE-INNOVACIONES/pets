@@ -53,8 +53,8 @@ section {
 
 footer {
     text-align: center;
-    padding: 10px;
+    margin-top: auto;
     background-color: #a2b4acad;
     color: rgb(2, 28, 21);
+    padding: 10px;
 }
-
