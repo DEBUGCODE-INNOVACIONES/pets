@@ -1,0 +1,60 @@
+/*# id*/
+/* . */
+/* styles.css */
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+body {
+    background-color: #fff;
+    box-shadow: 0 0 9cap rgba(86, 225, 185, 0.826);
+    color: #333;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    text-align: center;
+    padding: 40px;
+    background-color: #4CAF50;
+    box-shadow: 0 0 9cap rgba(86, 225, 185, 0.826);
+    color: white;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+.cta-container {
+    text-align: center;
+    padding: 20px;
+}
+
+.cta-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    box-shadow: 0 0 9cap rgba(86, 225, 185, 0.826);
+    color: white;
+    text-decoration: none;
+    font-size: 1.2em;
+    border-radius: 5px;
+}
+
+section {
+    text-align: center;
+    padding: 40px;
+}
+
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #a2b4acad;
+    color: rgb(2, 28, 21);
+}
+
