@@ -8,7 +8,7 @@
 
 body {
     background-color: #fff;
-    box-shadow: 0 0 9cap rgba(86, 225, 185, 0.826);
+    box-shadow: 0 0 9cap rgba(76, 149, 129, 0.826);
     color: #333;
     font-family: 'Arial', sans-serif;
     margin: 0;
@@ -19,8 +19,8 @@ body {
 header {
     text-align: center;
     padding: 40px;
-    background-color: #4CAF50;
-    box-shadow: 0 0 9cap rgba(86, 225, 185, 0.826);
+    background-color: #9dcd9e;
+    box-shadow: 0 0 9cap rgba(30, 81, 67, 0.826);
     color: white;
 }
 
@@ -37,7 +37,7 @@ h1 {
 .cta-button {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #4CAF50;
+    background-color: #81a182;
     box-shadow: 0 0 9cap rgba(86, 225, 185, 0.826);
     color: white;
     text-decoration: none;
