@@ -37,4 +37,15 @@
   - package_lock.json
   - package.json
   - postcss.config.js (verificar si es necesario en esta ubicación)
-  - tailwind.config.js (verificar si es necesario en esta ubicación)
+  - tailwind.config.js (verificar si es necesnpm startario en esta ubicación).
+
+
+
+  - pets
+  - src
+    - fonts
+      - custom-font.ttf
+      - another-font.woff
+      - webfont.woff2
+  - landing_page.html
+  - README.md
