@@ -1,0 +1,78 @@
+/*# id*/
+/* . */
+/* styles.css */
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+/* --------------Body:  header------------*/
+body {
+    background-color: #fff;
+    box-shadow: 0 0 9cap rgba(86, 225, 185, 0.826);
+    color: #333;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    text-align: center;
+    padding: 40px;
+    background-color: #9dcd9e;
+    box-shadow: 0 0 9cap rgba(86, 225, 185, 0.826);
+    color: white;
+}
+nav, section {
+    background-color: #aed2af;
+    margin: 20px;
+    padding: 20px;
+    /*background-color: #85b0cd;*/
+    box-shadow: 0 0 9cap rgba(86, 225, 185, 0.826);
+}
+
+
+h1 {
+    color: #f9f9f9;
+    margin: 20px;
+}
+
+/* Estilos para el menú */
+
+.main-nav{
+    
+    background-color: #a9d3c9;
+}
+
+nav ul {
+    list-style-type: none; /* Elimina los puntos de la lista */
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+nav li {
+    margin-right: 20px; /* Espacio entre elementos de la lista */
+}
+nav a {
+    text-decoration: none;
+    color: #000000;
+    
+    transition: color 0.3s ease; /* Efecto de transición en el color */
+}
+/* Cambio de color al pasar el mouse sobre los enlaces */
+nav a:hover {
+    color: #d0f3f5; /* Cambia el color al pasar el mouse */
+}
+
+
+/*--footer--*/
+
+footer {
+    text-align: center;
+    margin-top: auto;
+    background-color: #a2b4acad;
+    color: rgb(2, 28, 21);
+    padding: 10px;
+}
